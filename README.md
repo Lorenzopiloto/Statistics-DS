@@ -1,5 +1,5 @@
 # Statistics-DS
 ------------------------------------------
-Códigos de estatistica em Data Science
+Bem vindo ao repósitorio onde falamos sobre estatistica em Python
 ------------------------------------------
 
